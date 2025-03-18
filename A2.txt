@@ -1,0 +1,7 @@
+*******  Ticket Information  *******
+Row Letter :A
+Seat Number :2
+Ticket Price :£200
+Passenger First Name is:a
+Passenger Last Name is:a
+Passenger Email is :a

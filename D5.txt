@@ -1,0 +1,7 @@
+*******  Ticket Information  *******
+Row Letter :D
+Seat Number :5
+Ticket Price :£200
+Passenger First Name is:Raminda
+Passenger Last Name is:Goonawardana
+Passenger Email is :raminda@gmail.com

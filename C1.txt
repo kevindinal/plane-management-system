@@ -1,0 +1,7 @@
+*******  Ticket Information  *******
+Row Letter :C
+Seat Number :1
+Ticket Price :£200
+Passenger First Name is:Sharminda
+Passenger Last Name is:Fernando
+Passenger Email is :sharminda@gmail.com
